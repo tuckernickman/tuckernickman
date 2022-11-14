@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tuckernickman
 <!---- - 👀 I’m interested in ... Art --->
-- 🌱 I’m currently learning Java, Python, Linear Algebra and Analytic Geometry, Calculus, Mechanics and Thermodynamics, Programming and Philosophy
+- 🌱 I’m currently learning Programming with Java and Python, Linear Algebra and Analytic Geometry, Calculus, Mechanics and Thermodynamics, and Philosophy
 
 <!----  💞️ I’m looking to collaborate on ... --->
 <!----  - 📫 How to reach me ... --->
